@@ -125,7 +125,7 @@
 
     <img class="router-img" src="https://cdn.pixabay.com/photo/2020/12/20/10/33/router-5844001_1280.jpg" alt="Roteador moderno">
 
-    <a class="whatsapp-btn" href="https://wa.me/5517981614572" target="_blank">📲 Chamar no WhatsApp</a>
+    <a class="whatsapp-btn" href="https://wa.me/5517992128432?text=Ol%C3%A1%2C%20gostaria%20de%20consultar%20o%20sinal%21" target="_blank">📲 Chamar no WhatsApp</a>
   </div>
 
   <footer>
