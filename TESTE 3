@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Planos de Internet Fibra – Promoção Especial</title>
+  <style>
+    body { margin:0; font-family: Arial, sans-serif; background:#f4f4f4; color:#333; }
+    header { background:#8b0000; color:#ffd700; padding:2rem 1rem; text-align:center; }
+    header h1 { margin:0; font-size:2rem; }
+    header p { font-size:1.1rem; margin-top:0.5rem;}
+    .plans { max-width:1000px; margin:2rem auto; display:grid; grid-template-columns:1fr 1fr; gap:1.5rem; }
+    .plan-box { background:#fff; border:3px solid #8b0000; border-radius:10px; padding:1.5rem; text-align:center; position:relative; overflow:hidden; }
+    .plan-box:hover { box-shadow:0 0 15px rgba(0,0,0,0.2);}
+    .plan-box img.icon { max-width:120px; margin:1rem 0; border-radius:12px; }
+    .plan-box h2 { margin:0.5rem 0; color:#8b0000; font-size:1.4rem; }
+    .plan-box p { margin:0.5rem 0; font-size:1rem; }
+    .plan-box .price { font-size:1.3rem; font-weight:bold; color:#8b0000; }
+    .btn-whatsapp { display:inline-block; background:#25d366; color:#fff; font-size:1.1rem; padding:0.8rem 1.5rem; border-radius:50px; text-decoration:none; margin-top:1rem;}
+    footer { text-align:center; padding:1.5rem; background:#ddd; font-size:0.9rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Internet Fibra com Planos Especiais</h1>
+    <p>Promoções válidas por tempo limitado — confira e contrate já!</p>
+  </header>
+
+  <section class="plans">
+    <div class="plan-box">
+      <h2>Plano Família – 600 MEGAS</h2>
+      <img class="icon" src="https://planodesktop.com.br/img/familia.jpg" alt="Família conectada">
+      <p>Ideal para uso familiar: streaming, videoconferência, apps e mais.</p>
+      <p class="price">R$ 49,90/mês por 3 meses<br>Depois R$ 99,90 fixo</p>
+      <a class="btn-whatsapp" href="https://wa.me/5517992128432?text=Ol%C3%A1%2C%20gostaria%20de%20consultar%20o%20sinal%21" target="_blank">
+        📲 Chame no WhatsApp
+      </a>
+    </div>
+
+    <div class="plan-box">
+      <h2>Plano Gamer – 1 GIGA</h2>
+      <img class="icon" src="https://planodesktop.com.br/img/ps5.jpg" alt="Controle de jogo">
+      <p>Alta performance para jogos online e vídeos profissionais.</p>
+      <p class="price">R$ 79,90/mês por 3 meses<br>Depois R$ 99,90 fixo</p>
+      <a class="btn-whatsapp" href="https://wa.me/5517992128432?text=Ol%C3%A1%2C%20gostaria%20de%20consultar%20o%20sinal%21" target="_blank">
+        📲 Chame no WhatsApp
+      </a>
+    </div>
+  </section>
+
+  <footer>
+    &copy; 2025 – Sua Internet Fibra. Conexão rápida e confiável. Instalação grátis.
+  </footer>
+</body>
+</html>
